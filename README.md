@@ -1,165 +1,18 @@
- 
-<!--
-  GitHub Profile README
-  Name: Sajim Hasan
-  Username: ssajimhasan
-  Theme: Nord
--->
+# 💫 About Me:
+# Hi there, I'm a Developer 👋<br><br>💻 Passionate about technology, programming, and building cool things.<br><br>🚀 Always learning new technologies and improving my coding skills.<br><br>🌱 Exploring new tools, frameworks, and development opportunities.<br><br>🤝 Interested in collaborating on open-source projects.<br><br>### 💻 Tech Interests<br>- Software Development<br>- Web Development<br>- Problem Solving<br>- Open Source<br><br>### 📫 Connect With Me<br>- GitHub: [@yourusername](https://github.com/yourusername)<br><br>---<br>⭐ *"Keep learning, keep building, and never stop exploring!"*<br>
 
-<!-- ANIMATED HEADER -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=88C0D0&height=200&section=header&text=Sajim%20Hasan&fontSize=55&fontColor=2E3440&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descSize=16&descAlignY=55" width="100%" />
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ssajimhasan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssajimhasan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajimhasan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sajimhasan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sajimhasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajim@aelvynx.com) 
 
-<a href="https://github.com/ssajimhasan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Sajim+Hasan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+Spring+Boot+%7C+Java;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ssajimhasan">
-  <img src="https://img.shields.io/badge/GitHub-ssajimhasan-2E3440?style=for-the-badge&logo=github&logoColor=88C0D0" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ssajimhasan&style=for-the-badge&color=88C0D0&label=PROFILE+VIEWS" />
-
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sajimhasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sajimhasan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sajimhasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sajimhasan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-Hi! I'm **Sajim Hasan**, a Full Stack Developer passionate about building modern applications and exploring innovative technologies.
-
-I enjoy working across different layers of software development, from application interfaces to backend systems.
-
-- 💻 Interested in Full Stack Development.
-- 📱 Building applications with Flutter.
-- ⚙️ Developing backend applications with Spring Boot.
-- ☕ Working with Java and C++.
-- 🚀 Passionate about learning, building, and improving.
-- 🌱 Always exploring new technologies and development practices.
-
-> "Great software is built with curiosity, creativity, and consistency."
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,dart&theme=nord" />
-</p>
-
-### Frameworks & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,spring&theme=nord" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,androidstudio&theme=nord" />
-</p>
-
-### Technology Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-</p>
-
----
-
-## 🎯 Areas of Interest
-
-| Area | Focus |
-|:---|:---|
-| 📱 Mobile Development | Flutter |
-| ⚙️ Backend Development | Spring Boot |
-| ☕ Programming | Java |
-| 💡 Problem Solving | C++ |
-| 🌐 Full Stack Development | Application Development |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ssajimhasan&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssajimhasan&layout=compact&theme=nord&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ssajimhasan&theme=nord&hide_border=true" width="75%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssajimhasan&bg_color=2e3440&color=d8dee9&line=88c0d0&point=81a1c1&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ssajimhasan&theme=nord&no-frame=true&no-bg=true&margin-w=8" width="100%" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ssajimhasan?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-88C0D0?style=for-the-badge&logo=github&logoColor=2E3440" />
-</a>
-
-</div>
-
-Check out my repositories to explore my development work, experiments, and projects.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/ssajimhasan">
-  <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-**Keep Learning · Keep Building · Keep Growing**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=88C0D0&height=100&section=footer" width="100%" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
